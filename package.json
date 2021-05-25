@@ -9,7 +9,7 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "opus": "^0.3.3",
+    "@discordjs/opus": "^0.3.3",,
     "discord-player": "^3.3.2",
     "discord.js": "^12.5.1",
     "ffmpeg-static": "^4.2.7"
